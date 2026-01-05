@@ -17,5 +17,5 @@ This project is a simple website built using only HTML. It demonstrates basic pa
 
 ## Project Link
 
-https://github.com/Omowunmiii/basic-html-website
+https://roadmap.sh/projects/basic-html-website
 
